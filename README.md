@@ -1,7 +1,7 @@
 ## Hi there, I'm Vrishank 👋
 ![](https://komarev.com/ghpvc/?username=vrishanknehru&abbreviated=true&style=flat&base=247)
 </div>
-<h1 align="center">
+
 # 💫 About Me:
 🔭 I’m currently working on GenAI, Video Editing<br>🌱 I’m currently learning Gen AI, Premiere Pro<br>👨‍💻 All of my projects are available at https://github.com/vrishanknehru<br>💬 Ask me about Python, C<br>📫 How to reach me vrishank06@gmail.com
 
