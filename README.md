@@ -1,5 +1,8 @@
 ## Hi there, I'm Vrishank 👋
-![Image](https://github.com/user-attachments/assets/5eda07cb-1943-4d0d-8fc6-8a39c07cf109)
+<p align="center">
+  <img src="(https://images.steamusercontent.com/ugc/923674725906272403/E2767709D5439CFF6F4C1635699147228546E1B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" alt="Banner GIF" width="1000">
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrishanknehru&abbreviated=true&style=flat&base=247" alt="Profile views"/>
 </p>
