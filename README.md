@@ -1,6 +1,6 @@
 ## Hi there, I'm Vrishank 👋
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/923674725906272403/E2767709D5439CFF6F4C1635699147228546E1B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner GIF" width="1000">
+  <img src="https://i.pinimg.com/originals/2f/56/90/2f5690ee185f5345025b1a5b0bf2c8aa.gif" alt="Banner GIF" width="1000">
 </p>
 
 <p align="center">
