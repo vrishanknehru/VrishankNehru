@@ -12,6 +12,8 @@
 # 💫 About Me:
 🔭 I’m currently working on GenAI, Video Editing<br>🌱 I’m currently learning Gen AI, Premiere Pro<br>👨‍💻 All of my projects are available at https://github.com/vrishanknehru<br>💬 Ask me about Python, C<br>📫 How to reach me vrishank06@gmail.com
 
+![GitHub Stats](https://github-readme-stats-95v8lf8o8-vrishanknehrus-projects.vercel.app/api?username=VrishankNehru&count_private=true&cache_bust=1)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nehruuuuu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrishank-nehru-67b848322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrishank06@gmail.com) 
